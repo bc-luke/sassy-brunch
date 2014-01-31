@@ -17,7 +17,7 @@ documentation.
 
 ## Differences from Chaplin Boilerplate
 [Chaplin Boilerplate](https://github.com/chaplinjs/chaplin-boilerplate)
-is an official boilerplate all for chaplin. This skeleton is almost the same,
+is an official boilerplate for Chaplin. This skeleton is almost the same,
 except a few changes:
 
 * Added Header.
